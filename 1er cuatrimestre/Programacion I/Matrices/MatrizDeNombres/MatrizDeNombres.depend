@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492439158 source:e:\utn\programacion i\matrices\matrizdenombres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

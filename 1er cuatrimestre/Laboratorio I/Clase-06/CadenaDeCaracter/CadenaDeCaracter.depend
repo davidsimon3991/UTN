@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492002065 source:e:\utn\laboratorio i\clase-07\cadenadecaracter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

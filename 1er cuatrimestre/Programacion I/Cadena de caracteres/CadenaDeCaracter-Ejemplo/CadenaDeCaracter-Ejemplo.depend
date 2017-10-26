@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491831414 source:e:\utn\programacion i\cadena de caracteres\cadenadecaracter-ejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

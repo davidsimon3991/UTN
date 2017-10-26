@@ -1,0 +1,40 @@
+// Pin 13 has an LED connected on most Arduino boards.
+// give it a name:
+int ledrojo = 9;
+int ledverde = 8;
+int boton =7;
+int presionado;
+
+// the setup routine runs once when you press reset:
+void setup() {
+  // initialize the digital pin as an output.
+  	pinMode(ledrojo, OUTPUT);
+  	pinMode(ledverde, OUTPUT);
+	pinMode(boton,INPUT);
+  	Serial.begin(9600);
+  
+}
+
+// the loop routine runs over and over again forever:
+void loop() 
+{
+
+  presionado =digitalRead(boton);
+  if(presionado==LOW)
+  {
+  	Serial.println("No presionado");
+    digitalWrite(ledrojo, HIGH);   
+  	digitalWrite(ledverde,LOW); 
+  }
+  else
+  {
+  Serial.println("Presionado");
+    digitalWrite(ledrojo, LOW);   
+  	digitalWrite(ledverde,HIGH);
+  }
+  delay(200);
+  
+  
+                
+
+}

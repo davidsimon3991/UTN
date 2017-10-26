@@ -1,0 +1,17 @@
+tips para hacer el examen:
+
+LISTO	Primero el punto 1, despues el 4, y del punto 6,el ultimo item.
+	
+Al tener eso, se llama al profesor.
+
+LISTO	si da el ok, continuar con el punto 2 y 3.
+
+luego hacer punto 5, y el primer punto del 6
+
+
+puntos restantes:
+
+DONE-----cliente con mas alquileres
+DONE-----equipo con mas alquileres y su cantidad
+DONE-----tiempo promedio real de alquiler
+DONE-----todos los clientes con sus alquileres 

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1494971339 source:c:\users\m.m\desktop\charottimichelle\charottimichelle - copia\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1494970602 c:\users\m.m\desktop\charottimichelle\charottimichelle - copia\lib.h
+
+1494969235 source:c:\users\m.m\desktop\charottimichelle\charottimichelle - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1494971339 source:d:\mis documentos\utn\laboratorio i\charottimichelle - copia\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1494970602 d:\mis documentos\utn\laboratorio i\charottimichelle - copia\lib.h
+
+1494969235 source:d:\mis documentos\utn\laboratorio i\charottimichelle - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+

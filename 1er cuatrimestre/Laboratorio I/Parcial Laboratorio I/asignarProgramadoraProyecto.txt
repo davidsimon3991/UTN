@@ -1,0 +1,63 @@
+int i;
+    int aux;
+    int flag=0;
+    char respuesta;
+
+    printf("Ingrese id del programador:");
+    scanf("%d",&aux);
+
+    for(i=0; i<tam; i++)
+    {
+        if(program[i].estado==1 && aux==program[i].id)
+        {
+            flag=1;
+            cate[i].id=program[i].idCategoria;
+            printf("ID - NOMBRE - APELLIDO - CATEGORIA\n");
+            printf("%d - %s - %s - %d\n", program[i].id,program[i].nombre,program[i].apellido,program[i].idCategoria);
+            aux=program[i].id;
+
+        }
+    }
+    if(flag==1)
+    {
+        printf("\n1.Proyecto A,\n2.Proyecto B,\n3.Proyecto C,\n4.Proyecto D,\n5.Proyecto E,\n6.Proyecto F,\n7.Proyecto G,\n8.Proyecto H.\n");
+        printf("Ingrese el proyecto a asignar: ");
+        scanf("%d",&aux);
+        while(aux<0 || aux>8)
+        {
+            printf("Error.Reingrese numero del 1 al 8: ");
+            scanf("%d",&aux);
+        }
+
+        for(i=0; i<tamProy; i++)
+        {
+
+            if(proyec[i].estado==1&&aux==proyec[i].id)
+            {
+                aux=proyec[i].id;
+                proyec[i].id= proyecProgram[i].idProyecto;
+
+                printf("Ingrese hora a trabajar: ");
+                scanf("%d",&program[i].horaTrabajo);
+
+                while(program[i].horaTrabajo<=0||program[i].horaTrabajo>24)
+                {
+                    printf("Error.Reingrese hora");
+                    scanf("%d",&program[i].horaTrabajo);
+                }
+
+                printf("Desea seguir asignando proyectos? s/n\n");
+                fflush(stdin);
+                respuesta=tolower(getche());
+
+                if(respuesta == 'n')
+                {
+                    break;
+                }
+            }
+        }
+    }
+    else
+    {
+        printf("ID NO EXISTENTE.");
+    }

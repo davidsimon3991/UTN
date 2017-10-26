@@ -1,0 +1,32 @@
+int salidaR;
+int entradaR;
+
+int salidaB;
+int entradaB;
+
+int salidaG;
+int entradaG;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(3, OUTPUT);
+  pinMode(5, OUTPUT);
+  pinMode(6, OUTPUT);
+  
+
+}
+void loop()
+{
+  entradaR = analogRead(A3);
+  entradaB = analogRead(A1);
+  entradaG = analogRead(A2);
+  
+  salidaR = entradaR/4;
+  salidaB = entradaB/4;
+  salidaG = entradaG/4;
+  
+  analogWrite(3, salidaR);
+  analogWrite(5, salidaB);
+  analogWrite(6, salidaG);
+}

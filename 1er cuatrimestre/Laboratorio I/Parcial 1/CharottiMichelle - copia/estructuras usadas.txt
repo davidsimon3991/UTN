@@ -1,0 +1,29 @@
+typedef struct{
+int id;
+char nombre[20];
+char apellido[20];
+int idCategoria;
+int estado;
+int horaTrabajo;
+}eProgramador;
+
+typedef struct
+{
+    int id;
+    char descripcion[20];
+    int pagoXhora;
+}eCategorias;
+
+typedef struct
+{
+    int id;
+    char nombre[20];
+    int estado;
+    int cont;
+}eProyecto;
+
+typedef struct
+{
+  int idProgramador;
+  int idProyecto;
+}eIDs;

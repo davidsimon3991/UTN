@@ -1,0 +1,26 @@
+int valorEntrada;
+int voltaje;
+int salida;
+
+void setup()
+{
+	Serial.begin(9600);
+  	pinMode(3,OUTPUT);
+
+}
+void loop()
+{
+  valorEntrada = analogRead(A0);
+  voltaje = valorEntrada * .004883;
+  salida = valorEntrada /4;
+  analogWrite(3,salida);
+  
+  Serial.print("Entrada: "); // mensaje
+  Serial.println(valorEntrada); // scanf valor
+  //las 2 lineas son equivalentes a printf("Entrada: %d\n", valorEntrada);
+  Serial.print("Voltaje: ");
+  Serial.println(voltaje);
+  Serial.print("Salida: ");
+  Serial.println(salida);
+  delay(1000);
+}

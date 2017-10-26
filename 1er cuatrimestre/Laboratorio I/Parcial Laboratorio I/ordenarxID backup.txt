@@ -1,0 +1,32 @@
+void ordenarxID(empleados_proyectos pyp[],eProgramador pro[],eProyecto pj[], eCategoria cat[],int tamPYP,int tamPRO,int tamPJ, int tamCAT)
+{
+    int total=1;
+    for(int i =0; i< tamPRO; i++)
+    {
+        for(int n=0; n<tamCAT; n++)
+        {
+            if(pro[i].estado==1 && pro[i].idCategoria==cat[n].id)
+            {
+                printf("\nEl %s %s %s esta trabajando en:\n",cat[n].descripcion, pro[i].nombre,pro[i].apellido);
+                for(int j=0; j< tamPYP; j++)
+                {
+                    if(pyp[j].idEmpleado== pro[i].id)
+                    {
+                        for(int k = 0; k<tamPJ; k++)
+                        {
+                            if(pyp[j].idProyecto==pj[k].idProyecto)
+                            {
+                                printf("\n%s", pj[k].nombre);
+                            }
+                        }
+                    }
+                    total = pyp[j].horasProyecto * cat[n].pagoxHora;
+                    printf("\ntotal a cobrar por total de proyectos: %d",total);
+                }
+            }
+        }
+
+
+    }
+    system("pause");
+}

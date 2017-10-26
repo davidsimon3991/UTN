@@ -1,0 +1,3 @@
+Peliculas
+ID  Titulo  Genero  Duracion 
+200	lalasd	lalalan	230

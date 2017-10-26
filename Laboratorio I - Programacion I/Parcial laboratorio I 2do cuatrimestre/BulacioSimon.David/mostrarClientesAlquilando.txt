@@ -1,0 +1,24 @@
+void mostrarClientesAlquilando(eAlquiler alquiler[],eCliente cliente[],eMaquina maquina[],int tam_alq,int tam_cl,int tam_maq)
+{
+    for(int i=0; i<tam_cl; i++)
+    {
+        if(cliente[i].inhabilitado==0)
+        {
+            printf("El cliente %s %s esta alquilando:\n",cliente[i].apellido,cliente[i].nombre);
+            for(int j=0; j<tam_alq; j++)
+            {
+                if(alquiler[j].alquilado==1 && alquiler[j].idCliente == cliente[i].id)
+                {
+                    for(int k=0; k<tam_maq; k++)
+                    {
+                        if(alquiler[j].idEquipo == maquina[k].id)
+                        {
+                            printf("%s,\tHrs estimadas: %d\tHrs reales: %d\n",maquina[k].nombre, alquiler[i].tiempoEstimado,alquiler[j].tiempoReal);
+                        }
+                    }
+                }
+            }
+        }
+        printf("\n");
+    }
+}

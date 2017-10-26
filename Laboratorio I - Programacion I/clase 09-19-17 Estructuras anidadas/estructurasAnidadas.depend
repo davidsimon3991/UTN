@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1505747056 source:c:\users\alumno\desktop\estructurasanidadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1505833271 source:f:\utn\programacion laboratorio 1\clase 09-19-17 estructuras anidadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1505833950 source:f:\utn\programacion laboratorio 1\clase 09-19-17 estructuras anidadas\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1505833257 f:\utn\programacion laboratorio 1\clase 09-19-17 estructuras anidadas\prototipos.h
+

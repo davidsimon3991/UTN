@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497275091 source:e:\utn\programacion i\fechas\fechaejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

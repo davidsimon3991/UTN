@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\EjemploPOO\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\alumno\Desktop\EjemploPOO\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\alumno\Desktop\EjemploPOO\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\alumno\Desktop\EjemploPOO\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\EjemploPOO\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\alumno\Desktop\EjemploPOO\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\UTN\Laboratorio I\POO\EjemploPOO\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\UTN\Laboratorio I\POO\EjemploPOO\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\UTN\Laboratorio I\POO\EjemploPOO\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\UTN\Laboratorio I\POO\EjemploPOO\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\UTN\Laboratorio I\POO\EjemploPOO\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\UTN\Laboratorio I\POO\EjemploPOO\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache

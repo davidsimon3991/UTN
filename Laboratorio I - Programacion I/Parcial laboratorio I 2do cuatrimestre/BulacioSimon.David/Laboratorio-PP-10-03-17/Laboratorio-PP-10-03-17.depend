@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1507042766 source:e:\bulaciosimon.david\laboratorio-pp-10-03-17\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1507042899 source:e:\bulaciosimon.david\laboratorio-pp-10-03-17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1507042065 e:\bulaciosimon.david\laboratorio-pp-10-03-17\lib.h
+
+1508852303 source:f:\utn\laboratorio i - programacion i\parcial laboratorio i 2do cuatrimestre\bulaciosimon.david\laboratorio-pp-10-03-17\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"lib.h"
+
+1508852730 f:\utn\laboratorio i - programacion i\parcial laboratorio i 2do cuatrimestre\bulaciosimon.david\laboratorio-pp-10-03-17\lib.h
+
+1508850653 source:f:\utn\laboratorio i - programacion i\parcial laboratorio i 2do cuatrimestre\bulaciosimon.david\laboratorio-pp-10-03-17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+

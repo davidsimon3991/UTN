@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505223164 source:c:\users\alumno\desktop\arrays de estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1505228875 source:f:\utn\programacion laboratorio 1\clase 09-12-17 array de estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

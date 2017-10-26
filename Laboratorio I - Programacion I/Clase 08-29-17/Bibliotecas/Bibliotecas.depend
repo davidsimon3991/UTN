@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1504011357 source:c:\users\alumno\desktop\bibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"Caracteres.h"
+
+1504011481 source:c:\users\alumno\desktop\bibliotecas\caracteres.c
+	"Caracteres.h"
+
+1504012425 c:\users\alumno\desktop\bibliotecas\caracteres.h
+

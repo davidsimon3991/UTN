@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494858066 source:e:\utn\programacion i\matrices\tp matrices\tpmatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

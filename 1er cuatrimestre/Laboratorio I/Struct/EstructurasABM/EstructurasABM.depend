@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492612494 source:e:\utn\laboratorio i\struct\estructurasabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

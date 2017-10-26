@@ -1,0 +1,62 @@
+// http://www.iescamp.es/miarduino/2016/02/29/potenciometro-para-encender-5-leds/
+
+int valorEntrada;
+int voltaje;
+int salida;
+
+
+int pines[]={3,4,5,6};
+
+// the setup routine runs once when you press reset:
+void setup() {
+  for(int i =0;i<4;i++)
+  {
+    pinMode(pines[i],OUTPUT);
+  }
+  Serial.begin(9600);
+  
+}
+
+// the loop routine runs over and over again forever:
+void loop() {
+  
+  valorEntrada = analogRead(A0);
+  voltaje = valorEntrada/.004883;
+  salida=valorEntrada/4; 	
+  
+  if (valorEntrada==0)
+  {
+    encender(0);
+  }
+      
+  else if(valorEntrada > 0 && valorEntrada <= 200)
+  {
+     encender(1);
+  }
+  else if(valorEntrada >= 200 && valorEntrada <= 400)
+  {
+     encender(2);
+  }
+  else if(valorEntrada >= 400 && valorEntrada <= 600)
+  {
+     encender(3);
+  }
+  else if(valorEntrada >= 600 && valorEntrada <= 800)
+  {
+      encender(4);  
+  }
+  
+}
+
+void encender(int x)
+{
+  for(int i=0;i<x;i++)
+  {
+  digitalWrite(pines[i],HIGH);
+  }
+  for(int i=x;i<4;i++)
+  {
+    digitalWrite(pines[i],LOW);
+  }
+
+}

@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1494428290 source:e:\parcial laboratorio i\bulaciosimon_david\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1494428253 source:e:\parcial laboratorio i\bulaciosimon_david\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Funciones.h"
+
+1494428038 e:\parcial laboratorio i\bulaciosimon_david\funciones.h
+
+1496802708 source:d:\mis documentos\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Funciones.h"
+
+1496802708 d:\mis documentos\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.h
+
+1496802780 source:d:\mis documentos\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1496802780 source:i:\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1496802708 i:\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.h
+
+1497451128 source:f:\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Funciones.h"
+
+1497451113 f:\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.h
+
+1497450684 source:f:\utn\laboratorio i\parcial laboratorio i\bulaciosimon_david\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1497451128 source:f:\utn\1er cuatrimestre\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Funciones.h"
+
+1497451113 f:\utn\1er cuatrimestre\laboratorio i\parcial laboratorio i\bulaciosimon_david\funciones.h
+
+1497451159 source:f:\utn\1er cuatrimestre\laboratorio i\parcial laboratorio i\bulaciosimon_david\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+

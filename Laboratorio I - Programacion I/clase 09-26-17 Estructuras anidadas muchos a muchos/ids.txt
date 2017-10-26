@@ -1,0 +1,16 @@
+1, Metallica
+2, Helloween
+3, Eluveitie
+4, Megadeth
+5, Epica
+
+1, "Master of puppets"
+2, "I want out"
+3, "A rose for Epona"
+4, "Holy wars"
+5, "Cry for the moon"
+6, "One"
+7, "Hangar 18"
+8, "The call of the mountains"
+9, "The big 4"
+    

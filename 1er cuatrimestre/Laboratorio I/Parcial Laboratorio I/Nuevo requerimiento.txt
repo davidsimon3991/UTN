@@ -1,0 +1,8 @@
+Debera agregar 2 opciones de menu:
+1- Listado que me permita ver el sueldo que debe percibir cada programador. Tener en cuenta categoria a la que pertenece y la 
+ cantidad de hs asignadas a cada proyecto.
+2- Filtro: A partir del ingreso del identificador de un programador listar (en caso de que exista): todos sus datos incluyendo
+ los proyectos en los que esta involucrado y el salario que debe percibir.
+
+A- Listar programadores, y  el total que cobra cada programador por todos los proyectos.(y cada valor por proyecto)
+B- Listar proyectos, y por cada proyecto, mostrar lo que paga por todos sus programadores. 

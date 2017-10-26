@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1508251313 source:f:\utn\laboratorio i - programacion i\clase 10-17-17 memoria dinamica\estructura\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1508251283 f:\utn\laboratorio i - programacion i\clase 10-17-17 memoria dinamica\estructura\prototipos.h
+
+1508251283 source:f:\utn\laboratorio i - programacion i\clase 10-17-17 memoria dinamica\estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+
+1508764205 source:f:\utn\laboratorio i - programacion i\clase 10-23-17 vector dinamico\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1508764205 f:\utn\laboratorio i - programacion i\clase 10-23-17 vector dinamico\prototipos.h
+
+1508764065 source:f:\utn\laboratorio i - programacion i\clase 10-23-17 vector dinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1494378255 source:d:\mis documentos\utn\laboratorio i\modelo de examen de otro curso abm\modeloexamenp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1494378255 source:d:\mis documentos\utn\laboratorio i\modelo de examen de otro curso abm\modeloexamenp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Funciones.h"
+
+1494383997 d:\mis documentos\utn\laboratorio i\modelo de examen de otro curso abm\modeloexamenp1\funciones.h
+

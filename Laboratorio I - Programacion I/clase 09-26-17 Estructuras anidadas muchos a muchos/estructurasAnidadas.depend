@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1505747056 source:c:\users\alumno\desktop\estructurasanidadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1505833271 source:f:\utn\programacion laboratorio 1\clase 09-19-17 estructuras anidadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1505833950 source:f:\utn\programacion laboratorio 1\clase 09-19-17 estructuras anidadas\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1505833257 f:\utn\programacion laboratorio 1\clase 09-19-17 estructuras anidadas\prototipos.h
+
+1505833950 source:f:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1505833257 f:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas\prototipos.h
+
+1505833968 source:f:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1506436637 source:f:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1506436815 f:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\prototipos.h
+
+1506436815 source:f:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1506953358 source:e:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1506436815 e:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\prototipos.h
+
+1506436815 source:e:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1506992272 source:i:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\desarrollos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1506992049 i:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\prototipos.h
+
+1506992375 source:i:\utn\programacion laboratorio 1\clase 09-26-17 estructuras anidadas muchos a muchos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
